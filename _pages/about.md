@@ -12,6 +12,6 @@ I'm a Master's student from [South China University of Technology](https://www.s
 
 I am very fortunate to be advised by Dr. Haiqiang Zhang and Prof. Xin Jin at BGI Research. My work has led to significant contributions, including **two co-first authored SCI Q2 publications**.
 
-You can find my CV here: [Shaogang Li's Curriculum Vitae](https://alfredlsg.github.io/Shaogang.Li/files/ShaogangLi-CV-2025.pdf)
+You can find my CV here: [Shaogang Li's Curriculum Vitae](https://alfredlsg.github.io/ShaogangLi/files/ShaogangLi-CV-2025.pdf)
 
 [Email](mailto:li.shaogang97@gmail.com) / [GitHub](https://alfredlsg.github.io/Shaogang.Li/) 
