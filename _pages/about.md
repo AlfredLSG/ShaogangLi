@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Welcome to Shaogang Li's personal academic homepage"
+title: "Welcome to Shaogang Li's personal academic homepage
+         欢迎来到李少港的个人学术主页"
 author_profile: true
 redirect_from: 
   - /about/
